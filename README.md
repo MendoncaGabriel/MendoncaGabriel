@@ -16,13 +16,6 @@
 - **Ferramentas & DevOps:** Docker, Linux, Git, GitHub  
 - **Testes:** Vitest, Supertest  
 
----
-
-## 📈 Estatísticas do GitHub
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MendoncaGabriel&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MendoncaGabriel&layout=compact&theme=tokyonight)
 
 ---
 
