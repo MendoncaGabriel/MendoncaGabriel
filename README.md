@@ -1,3 +1,1 @@
-# Mendon-aGabriel
-
-olá, eu sou Gabriel Andrade - Desenvolvedor Backend
+Olá, eu sou Gabriel Andrade - Desenvolvedor Backend
