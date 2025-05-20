@@ -6,7 +6,23 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas (stacks)
+## 🛠️ Stack
+**Linguagens & Frameworks**
+[![Node.js]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.icons8.com/fluent/512/node-js.png))]()
+ 
+
+**Bancos de Dados**
+
+**ORMs & Query Builders**
+
+**Mensageria & Streaming**
+
+**Autenticação & Segurança**
+
+**DevOps & Ferramentas**
+
+**Testes**
+
 - **Linguagens & Frameworks:** Node.js, TypeScript, JavaScript, Express.js, Fastify, Nest, Angular, React, Next, bootstrap, Tailwindcss, Zustend
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis  
 - **ORMs & Query Builders:** Prisma, Knex  
