@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Andrade Mendonça
+# Olá, eu sou Gabriel Andrade!
 
 🚀 **Desenvolvedor Backend** apaixonado por **Node.js**, **TypeScript** e **arquitetura de software**.  
 🎯 Especialista em **APIs escaláveis**, **microsserviços** e **event-driven architecture**.  
@@ -6,15 +6,14 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens & Frameworks:** Node.js, TypeScript, JavaScript, Express.js, Fastify  
+## 🛠️ Tecnologias & Ferramentas (stacks)
+- **Linguagens & Frameworks:** Node.js, TypeScript, JavaScript, Express.js, Fastify, Nest, Angular, React, Next, bootstrap, Tailwindcss, Zustend
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis  
 - **ORMs & Query Builders:** Prisma, Knex  
-- **Mensageria & Streaming:** RabbitMQ, BullMQ, Node Streams, EventEmitter  
+- **Mensageria & Streaming:** RabbitMQ, BullMQ, Node Streams, EventEmitter, RabitMq
 - **Autenticação & Segurança:** JWT, OAuth 2.0, Bcrypt  
 - **Ferramentas & DevOps:** Docker, Linux, Git, GitHub  
-- **Testes:** Vitest, Supertest  
+- **Testes:** Vitest, Supertest , Jest
 
 
 ---
