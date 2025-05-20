@@ -10,7 +10,7 @@
 **Linguagens & Frameworks** 
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Typescript](https://img.icons8.com/fluent/512/typescript.png)]()
+[![Typescript](https://img.icons8.com/fluent/512/typescript.png](https://simpleicons.org/icons/typescript.svg)]()
 [![name](link)]()
 
  
