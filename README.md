@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Gabriel Andrade
+# Gabriel Andrade - Desenvolvedor FullStack
 
-**Desenvolvedor FullStack** especialista em **Node.js**, **TypeScript** e soluções escaláveis para aplicações modernas.
+**Especialista** em **Node.js**, **TypeScript** e soluções escaláveis para aplicações modernas.
 
 [![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/)
 [![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
