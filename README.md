@@ -11,8 +11,6 @@
 
 ---
 
-## Stack Principal
-
 ### Linguagens & Frameworks
 - Node.js, TypeScript, JavaScript
 - Express.js, Fastify, NestJS
