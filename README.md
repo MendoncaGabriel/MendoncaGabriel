@@ -10,8 +10,8 @@
 **Linguagens & Frameworks** 
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Typescript](https://img.icons8.com/fluent/512/typescript.png](https://simpleicons.org/icons/typescript.svg)]()
-[![name](link)]()
+[![Typescript]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png))]()
+
 
  
 
