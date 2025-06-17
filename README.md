@@ -1,50 +1,45 @@
-# Olá, eu sou Gabriel Andrade!
+# 👋 Olá! Eu sou Gabriel Andrade
 
-🚀 **Desenvolvedor Backend** apaixonado por **Node.js**, **TypeScript** e **arquitetura de software**.  
-🎯 Especialista em **APIs escaláveis**, **microsserviços** e **event-driven architecture**.  
-⚡ Focado em **desempenho**, **segurança** e **boas práticas** no desenvolvimento backend.  
+**Desenvolvedor FullStack** especialista em **Node.js**, **TypeScript** e soluções escaláveis para aplicações modernas.
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 ---
 
-## 🛠️ Stack
-**Linguagens & Frameworks** 
+## 🛠️ Stack Principal
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Typescript]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://static-00.iconduck.com/assets.00/typescript-icon-icon-2048x2048-2rhh1z66.png))]()
+### 🧠 Linguagens & Frameworks
+- Node.js, TypeScript, JavaScript
+- Express.js, Fastify, NestJS
+- Angular, React, Next.js
+- TailwindCSS, Bootstrap
 
+### 🗄️ Bancos de Dados
+- MySQL, PostgreSQL, MongoDB, Redis, SQLite
 
- 
+### 🔌 ORMs & Query Builders
+- Prisma, Knex.js
 
-**Bancos de Dados**
+### ⚙️ Mensageria & Streaming
+- RabbitMQ, BullMQ, Node Streams, EventEmitter
 
-**ORMs & Query Builders**
+### 🔐 Autenticação & Segurança
+- JWT, OAuth 2.0, Bcrypt
 
-**Mensageria & Streaming**
+### 🧪 Testes
+- Jest, Vitest, Supertest
 
-**Autenticação & Segurança**
-
-**DevOps & Ferramentas**
-
-**Testes**
-
-- **Linguagens & Frameworks:** Node.js, TypeScript, JavaScript, Express.js, Fastify, Nest, Angular, React, Next, bootstrap, Tailwindcss, Zustend
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, Redis  
-- **ORMs & Query Builders:** Prisma, Knex  
-- **Mensageria & Streaming:** RabbitMQ, BullMQ, Node Streams, EventEmitter, RabitMq
-- **Autenticação & Segurança:** JWT, OAuth 2.0, Bcrypt  
-- **Ferramentas & DevOps:** Docker, Linux, Git, GitHub  
-- **Testes:** Vitest, Supertest , Jest
-
+### 🛠️ Ferramentas & DevOps
+- Docker, Linux, Git, GitHub
 
 ---
 
 ## 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mendonçagabriel)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MendoncaGabriel)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncagabriel1997@gmail.com)  
-
----
-
-🔹 *Sempre buscando desafios para criar soluções escaláveis e eficientes!*  
-💡 *Aberto a oportunidades e colaborações!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mendonçagabriel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MendoncaGabriel)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoncagabriel1997@gmail.com)
