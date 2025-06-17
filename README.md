@@ -11,30 +11,30 @@
 
 ---
 
-## 🛠️ Stack Principal
+## Stack Principal
 
-### 🧠 Linguagens & Frameworks
+### Linguagens & Frameworks
 - Node.js, TypeScript, JavaScript
 - Express.js, Fastify, NestJS
 - Angular, React, Next.js
 - TailwindCSS, Bootstrap
 
-### 🗄️ Bancos de Dados
+### Bancos de Dados
 - MySQL, PostgreSQL, MongoDB, Redis, SQLite
 
-### 🔌 ORMs & Query Builders
+### ORMs & Query Builders
 - Prisma, Knex.js
 
-### ⚙️ Mensageria & Streaming
+### Mensageria & Streaming
 - RabbitMQ, BullMQ, Node Streams, EventEmitter
 
-### 🔐 Autenticação & Segurança
+### Autenticação & Segurança
 - JWT, OAuth 2.0, Bcrypt
 
-### 🧪 Testes
+### Testes
 - Jest, Vitest, Supertest
 
-### 🛠️ Ferramentas & DevOps
+### Ferramentas & DevOps
 - Docker, Linux, Git, GitHub
 
 ---
